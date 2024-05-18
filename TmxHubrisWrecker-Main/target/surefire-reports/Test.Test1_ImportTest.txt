@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Test.Test1_ImportTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 128.0 s -- in Test.Test1_ImportTest
+Test.Test1_ImportTest.ENV01_loginTest -- Time elapsed: 16.95 s
+Test.Test1_ImportTest.ENV02_importStudyTest -- Time elapsed: 37.77 s
+Test.Test1_ImportTest.ENV03_createDevEnvironmentTest -- Time elapsed: 16.91 s
+Test.Test1_ImportTest.ENV04_createTrainEnvironmentTest -- Time elapsed: 27.04 s

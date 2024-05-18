@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: Test.Test4_DeployCRFTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 105.8 s -- in Test.Test4_DeployCRFTest
+Test.Test4_DeployCRFTest.ENV10_linkCrfVersionTest -- Time elapsed: 52.01 s

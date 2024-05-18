@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: Test.Test2_StudySetupTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 109.0 s -- in Test.Test2_StudySetupTest
+Test.Test2_StudySetupTest.ENV05_createDevEnvRTteamTest -- Time elapsed: 50.45 s
+Test.Test2_StudySetupTest.ENV06_createTrainEnvRTteamTest -- Time elapsed: 21.81 s
